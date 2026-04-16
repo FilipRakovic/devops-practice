@@ -27,3 +27,8 @@ for HOST in google.com github.com azure.microsoft.com; do
         echo "$HOST is UNREACHABLE"
     fi
 done
+
+echo ""
+echo "=== Memory Usage ==="
+free -h
+
