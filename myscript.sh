@@ -1,4 +1,5 @@
 #!/bin/bash
+# System report script - Written by Filip
 
 NAME="DevOps VM"
 DISK_USAGE=$(df -h / | awk 'NR==2 {print $5}')
