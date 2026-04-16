@@ -1,0 +1,3 @@
+My devOps Journey starts here
+Today I learned basic Linux commands
+Next  up: file permissions
