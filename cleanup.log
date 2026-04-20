@@ -1,0 +1,22 @@
+================================
+Log cleanup started: Mon Apr 20 10:22:51 AM CEST 2026
+================================
+Archiving files older than 30 days...
+Archived: /home/filip/devops-practice/fake_logs/server_ancient.log
+Archived: /home/filip/devops-practice/fake_logs/app_ancient.log
+Archived: /home/filip/devops-practice/fake_logs/error_ancient.log
+Deleting files older than 7 days...
+Deleted: /home/filip/devops-practice/fake_logs/crash_old.log
+Deleted: /home/filip/devops-practice/fake_logs/app_old.log
+Deleted: /home/filip/devops-practice/fake_logs/server_old.log
+Files remaining in log dir: 
+Files in archive: 
+Cleanup complete: Mon Apr 20 10:22:51 AM CEST 2026
+================================
+Log cleanup started: Mon Apr 20 10:25:42 AM CEST 2026
+================================
+Archiving files older than 30 days...
+Deleting files older than 7 days...
+Files remaining in log dir: 4
+Files in archive: 3
+Cleanup complete: Mon Apr 20 10:25:42 AM CEST 2026
