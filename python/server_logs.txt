@@ -1,0 +1,5 @@
+web-01 status: online
+web-02 status: maintenance
+db-01 status: offline
+db-02 status: online
+cache-01 status: online
